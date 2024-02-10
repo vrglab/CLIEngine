@@ -282,7 +282,6 @@ build/
 .dart_tool/
 
 # Ignore Puppeteer screenshots and PDFs
-*.png
 *.pdf
 
 # Ignore Nuxt.js build directory
